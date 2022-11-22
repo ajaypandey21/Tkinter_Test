@@ -1,0 +1,19 @@
+	Welcome to Our Shop
+Bill no : 9991
+Customer Name : qewrf
+Phone Number : 2341
+======================================
+ Products		Qty	  Price 
+======================================
+Moisturizer		1	 100 
+Rice      		1	 20 
+Desi      		1	 80 
+Tea       		1	 110 
+--------------------------------------
+Cosmetics Tax		  18.0 
+Groceries Tax		  3.6 
+Cold Drinks Tax		  34.2 
+--------------------------------------
+Total of Items		  310.0 
+Total of Tax		  55.8 
+Total Amount		  365.8 

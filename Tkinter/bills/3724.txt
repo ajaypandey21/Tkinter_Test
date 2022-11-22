@@ -1,0 +1,21 @@
+	Welcome to Our Shop
+Bill no : 3724
+Customer Name : bablesh
+Phone Number : 2353454
+======================================
+ Products		Qty	  Price 
+======================================
+Bath soap  		2	 40  
+Face Cream 		1	 40 
+Moisturizer		2	 200 
+Pulses    		4	 240 
+Desi      		2	 160 
+Tea       		1	 110 
+--------------------------------------
+Cosmetics Tax		  50.4 
+Groceries Tax		  43.2 
+Cold Drinks Tax		  48.6 
+--------------------------------------
+Total of Items		  790.0 
+Total of Tax		  142.2 
+Total Amount		  932.2 

@@ -1,0 +1,25 @@
+	Welcome to Our Shop
+Bill no : 1144
+Customer Name : Vikas Tiwari
+Phone Number : 9873292942
+======================================
+ Products		Qty	  Price 
+======================================
+Bath soap		3	 60  
+Face Cream		1	 40 
+Face Wash		1	 110 
+Rice		5	 100 
+Food oil		2	 80 
+Pulses		2	 120 
+Wheat		5	 400 
+Sugar		2	 200 
+Pepsi		2	 120 
+Tea		1	 110 
+--------------------------------------
+Cosmetics Tax		  37.8 
+Groceries Tax		  162.0 
+Cold Drinks Tax		  41.4 
+--------------------------------------
+Total of Items		  1340.0 
+Total of Tax		  241.2 
+Total Amount		  1581.2 

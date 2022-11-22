@@ -1,0 +1,19 @@
+	Welcome to Our Shop
+Bill no : 3194
+Customer Name : asda
+Phone Number : 34646
+======================================
+ Products		Qty	  Price 
+======================================
+Bath soap  		1	 20  
+Hair gel  		3	 240 
+Food oil 		3	 120 
+Pepsi    		2	 120 
+--------------------------------------
+Cosmetics Tax		  46.8 
+Groceries Tax		  21.6 
+Cold Drinks Tax		  21.6 
+--------------------------------------
+Total of Items		  500.0 
+Total of Tax		  90.0 
+Total Amount		  590.0 

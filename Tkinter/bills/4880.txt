@@ -1,0 +1,18 @@
+	Welcome to Our Shop
+Bill no : 4880
+Customer Name : Ajay
+Phone Number : 12423
+======================================
+ Products		Qty	  Price 
+======================================
+Bath soap		1	 20  
+Pulses		3	 180 
+Desi		4	 320 
+--------------------------------------
+Cosmetics Tax		  3.6 
+Groceries Tax		  32.4 
+Cold Drinks Tax		  57.6 
+--------------------------------------
+Total of Items		  520.0 
+Total of Tax		  93.6 
+Total Amount		  613.6 

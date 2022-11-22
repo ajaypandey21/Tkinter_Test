@@ -1,0 +1,17 @@
+	Welcome to Our Shop
+Bill no : 9915
+Customer Name : hhh
+Phone Number : 7388
+======================================
+ Products		Qty	  Price 
+======================================
+Face Cream 		2	 80 
+Rice      		4	 80 
+--------------------------------------
+Cosmetics Tax		  14.4 
+Groceries Tax		  14.4 
+Cold Drinks Tax		  0.0 
+--------------------------------------
+Total of Items		  160.0 
+Total of Tax		  28.8 
+Total Amount		  188.8 
